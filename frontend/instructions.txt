@@ -1,0 +1,5 @@
+To open the solution please do the following:
+
+1. npm i/install
+2. npm run dev
+3. have fun :)
