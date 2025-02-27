@@ -1,5 +1,6 @@
 To open the solution please do the following:
 
-1. npm i/install
-2. npm run dev
-3. have fun :)
+1. cd into freerooms2 folder via (cd frontend/freerooms2 <- path)
+2. npm i/install
+3. npm run dev
+4. have fun :)
